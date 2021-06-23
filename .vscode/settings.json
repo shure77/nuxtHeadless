@@ -1,0 +1,15 @@
+{
+    "[yaml]": {
+
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "editor.autoIndent": "advanced",
+        "gitlens.codeLens.scopes": [
+            "document"
+        ]
+    },
+    "eslint.validate": [
+        "javascript",
+        "vue"
+    ]
+}
